@@ -1,0 +1,1 @@
+console.log('About page javascript is working');
